@@ -153,7 +153,7 @@ Console.WriteLine("Select an option (1-5): ");
                 Console.Write("Enter the filename: ");
                 string loadFilename = Console.ReadLine();
                 journal.LoadFromFile(loadFilename);
-                journal.DisplayJournal(); // Display the loaded journal
+                journal.DisplayJournal();
             }
             else if (choice == "5")
             {
