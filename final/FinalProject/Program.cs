@@ -123,3 +123,65 @@ namespace PersonalizedTaskManager
         }
     }
 }
+
+
+//text file for instructions
+//also my brother helped me a lot
+//The Eric Weber Personalized Task Manager allows user to organize and manage various tasks, including recurring tasks, priority tasks, and personalized tasks.
+
+// Features
+// Task Types:
+
+// Recurring Tasks: Tasks that repeat at specified intervals.
+// Priority Tasks: Tasks with assigned priority levels.
+// Personalized Tasks: Customized tasks for personal goals or special occasions.
+// Task Display:
+
+// View details of all tasks.
+// Display tasks with a specific priority level.
+// Task Creation:
+
+// Easily create new tasks of different types.
+// Usage
+// Run the Program:
+
+// Compile and run the program using a C# compiler (e.g., Visual Studio, Visual Studio Code).
+// View All Tasks:
+
+// The program will display all tasks, including details such as name, description, due date, and additional information based on task type.
+// View Tasks with Priority:
+
+// The program allows you to view tasks with a specific priority level.
+// Create New Tasks:
+
+// Customize the task manager by creating new tasks.
+// Provide details such as task name, description, due date, recurring interval, or priority level.
+// Example Tasks
+// Daily Exercise:
+
+// Type: Recurring Task
+// Description: Lift weights for 30 minutes and do abs for 10.
+// Recurring Interval: Every day.
+// Jewelry Vendor Meeting:
+
+// Type: Priority Task
+// Description: Discuss latest jewelry collections.
+// Priority Level: 1
+// Meet Daily Sales Goal:
+
+// Type: Priority Task
+// Description: Calculate it first and then do all you can to sell.
+// Priority Level: 2
+// Surprise Olivia in Some Way:
+
+// Type: Priority Task
+// Description: Plan and execute a surprise date night for Olivia.
+// Priority Level: 3
+// Tell Olivia You Love Her:
+
+// Type: Recurring Task
+// Description: Leave a love note for Olivia.
+// Recurring Interval: Every day.
+
+
+// obviously the jewelry stuff and the Olivia (my wife) stuff is Eric Weber specific but you get the idea.
